@@ -56,7 +56,11 @@ markdown의 주 목적은 사람들이 읽기 쉽고 쓰기 쉬운 서식 문서
 ```
  ![이미지 설명](http:~~)
 ```
+<<<<<<< HEAD
 ![포스터](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FtEMUl%2FbtrDc6957nj%2FNwJoDw0EOapJNDSNRNZK8K%2Fimg.jpg)
+=======
+![포스터]()
+>>>>>>> 6a642f6102d6a8ef0612f5bf79142a6803b1f79f
 
 7.인용구
 
@@ -89,7 +93,10 @@ markdown의 주 목적은 사람들이 읽기 쉽고 쓰기 쉬운 서식 문서
 - [x] 완료한 일
 
 11.  테이블
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6a642f6102d6a8ef0612f5bf79142a6803b1f79f
 ``` 
     | 제목1| 제목2 |
     |-----| ------|
