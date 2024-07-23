@@ -56,7 +56,7 @@ markdown의 주 목적은 사람들이 읽기 쉽고 쓰기 쉬운 서식 문서
 ```
  ![이미지 설명](http:~~)
 ```
-![포스터]([https://imgnews.pstatic.net/image/311/2024/06/27/0001742172_001_20240627073009072.jpg?type=w647](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FtEMUl%2FbtrDc6957nj%2FNwJoDw0EOapJNDSNRNZK8K%2Fimg.jpg))
+![포스터]([https://imgnews.pstatic.net/image/311/2024/06/27/0001742172_001_20240627073009072.jpg?type=w647](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FtEMUl%2FbtrDc6957nj%2FNwJoDw0EOapJNDSNRNZK8K%2Fimg.jpg)
 
 7.인용구
 
